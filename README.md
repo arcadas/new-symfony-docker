@@ -1,5 +1,7 @@
 # New Symfony Docker
 
+You can create a new Symfony project in a fully dockerized development environment with this repositroy.
+
 Requirements: `Docker`
 
 Create and run a new symfony:
